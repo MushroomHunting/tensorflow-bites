@@ -1,4 +1,17 @@
+:::::::::::::::::::::::::::::::::::::
+:::  A. Probability               :::
+:::::::::::::::::::::::::::::::::::::
 #1. MultivariateNormalTriL location dimensionality autobroadcasting
 #2. tf.random_variable as constant instead of sampler
-#3. wrapping python functions as ops
-#4. 
+
+
+::::::::::::::::::::::::::::::::::::::
+:::  B. numpy2tensorflow interface :::
+::::::::::::::::::::::::::::::::::::::
+#1. wrapping python functions as ops
+
+
+::::::::::::::::::::::::::::::::::::::
+:::  C. Edward                     :::
+::::::::::::::::::::::::::::::::::::::
+#1. Using WishartCholesky with MultivariateNormalTriL (see also A1)
