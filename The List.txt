@@ -1,0 +1,4 @@
+#1. MultivariateNormalTriL location dimensionality autobroadcasting
+#2. tf.random_variable as constant instead of sampler
+#3. wrapping python functions as ops
+#4. 
